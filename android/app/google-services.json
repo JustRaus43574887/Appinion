@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447487844284",
+    "project_id": "mobile-appinion",
+    "storage_bucket": "mobile-appinion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447487844284:android:d5b7a7aa8ebcb933f5d5b9",
+        "android_client_info": {
+          "package_name": "com.digital.appinion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447487844284-bphqpl042gm4ls59hasu3a2r31qn1g43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxkUEjrpyzowY83wB2WTet5wBxsgdj7ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447487844284-bphqpl042gm4ls59hasu3a2r31qn1g43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
